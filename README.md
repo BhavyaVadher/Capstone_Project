@@ -138,5 +138,5 @@ If you would like to contribute to this project, please fork the repository and 
 
 For any questions, suggestions, or help, please open an issue or contact me directly.
 
-Viki Patel  
-vickypatel1293@gmail.com
+Bhavya Vadher  
+bhavyavadher111@gmail.com
