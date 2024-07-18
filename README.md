@@ -44,7 +44,7 @@ Abbrivio AI is a text summarization web application that helps users to summariz
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Vikipatel1293/AIML-Capstone-Project.git
+    git clone https://github.com/BhavyaVadher/Capstone_Project.git
     cd abbrivio-ai/backend
     ```
 
